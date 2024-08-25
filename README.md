@@ -33,8 +33,9 @@ Seja bem-vindo(a) ao meu espaço no GitHub! Sou uma desenvolvedora apaixonada po
 
 - Caso queira entrar em contato:
 
-📫 Email: jhenifer@exemplo.com
+📫 Email: jhenifer.meneses10@gmail.com
 
+🌐 Linkdin: www.linkedin.com/in/jhenifer-meneses-98293b300
 
 ---
 
