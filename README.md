@@ -3,7 +3,7 @@
 
 # 🌸 Oiii! Eu sou a Jhenifer 😁
 
-<!--
+
 Seja bem-vindo(a) ao meu espaço no GitHub! Sou uma desenvolvedora apaixonada por tecnologia, criatividade e sempre em busca de novos desafios para aprender e crescer.
 
 ## ✨ Sobre mim
@@ -41,5 +41,4 @@ Adoro conhecer novas pessoas e trocar ideias. Se você quiser bater um papo, col
 ---
 
 ```markdown
-Fique à vontade para personalizar conforme sua preferência! Se precisar de mais alguma coisa, é só avisar.
--->
+
