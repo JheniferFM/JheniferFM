@@ -1,6 +1,11 @@
-# 🌸 Oiii! Eu sou a Jhenifer 😁
+# 𓍢ִ໋🌷͙֒ Oiii! Eu sou a Jhenifer 👩🏼‍💻 
 
 Seja bem-vindo(a) ao meu espaço no GitHub! Sou uma desenvolvedora apaixonada por tecnologia, criativa e sempre em busca de novos desafios para aprender e crescer.
+## ✨ Sobre mim
+
+- 🎓 Estudante: Estudante do 3 semestre de Análise e Desenvolvimneto de Sistemas, sempre aprendendo algo novo, especialmente no mundo do desenvolvimento de software.
+- 💻 Apaixonada por código: Adoro criar projetos e soluções que fazem a diferença.
+- 💪 Focada em desafios: Cada novo projeto é uma oportunidade para melhorar e aprender mais.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JheniferFM&layout=compact&theme=jolly)
 
@@ -24,3 +29,22 @@ Seja bem-vindo(a) ao meu espaço no GitHub! Sou uma desenvolvedora apaixonada po
 ## 📊 Estatísticas do GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JheniferFM&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=jolly)
+
+## 🚀 Minhas Habilidades
+
+- Front-end: HTML, CSS, JavaScript
+- Back-end: Node.js, PHP, MySQL , Python
+- Design: Figma, Photoshop
+- Ferramentas: Git, GitHub, VS Code
+
+## 🌱 Atualmente aprendendo
+
+- TypeScript: Explorando o mundo do JavaScript tipado.
+- Next.js: Aprendendo a criar aplicações performáticas e escaláveis.
+
+## 🎯 Objetivos
+
+- Contribuir em projetos open-source
+- Criar um portfólio incrível
+- Aprender algo novo todos os dias!
+
