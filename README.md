@@ -1,6 +1,6 @@
-# 𓍢ִ໋🌷͙֒ Oiii! Eu sou a Jhenifer 👩🏼‍💻 
+#  Oiii! Eu sou a Jhenifer 
 
-Seja bem-vindo(a) ao meu espaço no GitHub! Sou uma desenvolvedora apaixonada por tecnologia, criativa e sempre em busca de novos desafios para aprender e crescer.
+Seja bem-vindo(a) ao meu espaço no GitHub! Sou uma desenvolvedora estusiasmada por tecnologia, criativa e sempre em busca de novos desafios para aprender e crescer.
 ## ✨ Sobre mim
 
 - 🎓 Estudante: Estudante do 3 semestre de Análise e Desenvolvimneto de Sistemas, sempre aprendendo algo novo, especialmente no mundo do desenvolvimento de software.
@@ -38,8 +38,8 @@ Seja bem-vindo(a) ao meu espaço no GitHub! Sou uma desenvolvedora apaixonada po
 - Ferramentas: Git, GitHub, VS Code
 
 ## 🌱 Atualmente aprendendo
-
-- TypeScript: Explorando o mundo do JavaScript tipado.
+- React
+- linux
 - Next.js: Aprendendo a criar aplicações performáticas e escaláveis.
 
 ## 🎯 Objetivos
