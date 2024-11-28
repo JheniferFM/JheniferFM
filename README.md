@@ -22,7 +22,7 @@ Bem-vindo ao meu espaço no GitHub! Sou uma  **desenvolvedora de software** e **
 
 ### Power BI & Análise de Dados
 - **Power BI**: Criação de dashboards interativos, relatórios dinâmicos, e visualizações de dados para insights estratégicos.
-- **DAX**: Criação de medidas e cálculos avançados.
+
 - **Modelagem de Dados**: Transformação e organização de dados para análise eficaz.
 
 ### Ferramentas e Tecnologias
@@ -48,8 +48,8 @@ Bem-vindo ao meu espaço no GitHub! Sou uma  **desenvolvedora de software** e **
 ## 🌱 Atualmente aprendendo
 
 - **React**: Criando interfaces interativas e escaláveis.
-- **Next.js**: Aprendendo a desenvolver aplicações otimizadas para a web.
-- **Power BI Avançado**: Mergulhando mais fundo nas funcionalidades de DAX e modelagem de dados.
+
+- **Power BI **: Mergulhando mais fundo nas funcionalidades de DAX e modelagem de dados.
 
 ---
 
