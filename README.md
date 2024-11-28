@@ -1,12 +1,12 @@
 # Oiii! Eu sou a Jhenifer Meneses 👩‍💻
 
-Bem-vindo ao meu espaço no GitHub! Sou uma desenvolvedora apaixonada por **desenvolvimento de software** e **análise de dados**. Com um foco especial em **Power BI** e **automatização de processos**, estou sempre em busca de aprender novas tecnologias e construir soluções inovadoras.
+Bem-vindo ao meu espaço no GitHub! Sou uma **desenvolvedora de software** e **analista de dados**. Com um foco especial em **Power BI** e **automatização de processos**, estou sempre em busca de aprender novas tecnologias e construir soluções inovadoras.
 
 ## ✨ Sobre Mim
 
 - 🎓 **Estudante de Análise e Desenvolvimento de Sistemas** (3º semestre) com grande interesse por **automação de processos** e **análise de dados**.
-- 💻 **Desenvolvedora Full Stack**: Experiência com **Python**, **JavaScript**, **SQL**, e **desenvolvimento de aplicações web**.
-- 📊 **Especialista em Power BI**: Criação de dashboards interativos e relatórios dinâmicos para gerar insights valiosos e facilitar decisões empresariais.
+- 💻 **Desenvolvedora **: Experiência com **Python**, **JavaScript**, **SQL**, e **desenvolvimento de aplicações web**.
+- 📊 **Power BI**: Criação de dashboards interativos e relatórios dinâmicos para gerar insights valiosos e facilitar decisões empresariais.
 - 🚀 Sempre em busca de **novos desafios** para aprimorar minhas habilidades e expandir meu conhecimento.
 
 ---
@@ -22,7 +22,7 @@ Bem-vindo ao meu espaço no GitHub! Sou uma desenvolvedora apaixonada por **dese
 
 ### Power BI & Análise de Dados
 - **Power BI**: Criação de dashboards interativos, relatórios dinâmicos, e visualizações de dados para insights estratégicos.
-- **DAX**: Criação de medidas e cálculos avançados.
+
 - **Modelagem de Dados**: Transformação e organização de dados para análise eficaz.
 
 ### Ferramentas e Tecnologias
