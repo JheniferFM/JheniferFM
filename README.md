@@ -1,168 +1,51 @@
-\documentclass[letterpaper,11pt]{article}
+# Oiii! Eu sou a Jhenifer
 
-\usepackage[utf8]{inputenc}  % Suporte a acentuação
-\usepackage{latexsym}
-\usepackage[empty]{fullpage}
-\usepackage{titlesec}
-\usepackage{marvosym}
-\usepackage[usenames,dvipsnames]{color}
-\usepackage{verbatim}
-\usepackage{enumitem}
-\usepackage[hidelinks]{hyperref}
-\usepackage{fancyhdr}
-\usepackage[english]{babel}
-\usepackage{tabularx}
-\input{glyphtounicode}
+Seja bem-vindo(a) ao meu espaço no GitHub! Sou uma desenvolvedora estusiasmada por tecnologia, criativa e sempre em busca de novos desafios para aprender e crescer.
 
-% Font options
-\usepackage[sfdefault]{roboto}  % Sans-serif font
+## ✨ Sobre mim
 
-% Custom header
-\pagestyle{fancy}
-\fancyhf{}
-\fancyfoot{}
-\renewcommand{\headrulewidth}{0pt}
-\renewcommand{\footrulewidth}{0pt}
+- 🎓 **Estudante**: Estudante do 3º semestre de Análise e Desenvolvimento de Sistemas, sempre aprendendo algo novo, especialmente no mundo do desenvolvimento de software.
+- 💻 **Apaixonada por código**: Adoro criar projetos e soluções que fazem a diferença.
+- 💪 **Focada em desafios**: Cada novo projeto é uma oportunidade para melhorar e aprender mais.
 
-% Margin and page layout adjustments
-\addtolength{\oddsidemargin}{-0.7in}
-\addtolength{\evensidemargin}{-0.7in}
-\addtolength{\textwidth}{1.4in}
-\addtolength{\topmargin}{-.8in}
-\addtolength{\textheight}{1.4in}
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JheniferFM&layout=compact&theme=jolly)
 
-% URL style
-\urlstyle{same}
-\raggedbottom
-\raggedright
-\setlength{\tabcolsep}{0in}
+## 🛠 Linguagens de Programação
 
-% Section formatting
-\titleformat{\section}{\Large\bfseries\scshape\raggedright}{}{0em}{}[\titlerule]
-\titlespacing{\section}{0pt}{1.5ex plus 0.5ex minus 0.2ex}{1.5ex plus 0.2ex}
+![HTML](https://img.shields.io/badge/HTML-fa62a1?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-fc85c4?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-fd7bac?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-f27aa9?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-e75480?style=for-the-badge&logo=postgresql&logoColor=white)
 
-\titleformat{\subsection}{\large\bfseries\raggedright}{}{0em}{}
-\titlespacing{\subsection}{0pt}{1.5ex plus 0.5ex minus 0.2ex}{1ex plus 0.2ex}
+## 📖 Portfolio
 
-% Ensure PDF is machine readable
-\pdfgentounicode=1
+[🌐 Visite meu portfólio](https://jheniferfm.github.io/Portf-lio/)
 
-% Custom commands
-\newcommand{\resumeItem}[1]{\item\small{#1}}
-\newcommand{\resumeSubheading}[4]{
-\vspace{-2pt}\item
-  \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
-    \textbf{#1} & #2 \\
-    \textit{#3} & \textit{#4} \\
-  \end{tabular*}\vspace{-5pt}
-}
-\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
-\newcommand{\resumeSubHeadingList}{\begin{itemize}[leftmargin=0.15in, label={}]}
-\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
-\newcommand{\resumeProject}[3]{
-    \item[]\textbf{#1}
-    \begin{itemize}[leftmargin=0.2in, label={$\bullet$}]
-        \resumeItem{#2}
-        \resumeItem{#3}
-    \end{itemize}
-}
-\newcommand{\resumeLink}[2]{\item[]\href{#1}{#2}}
+## 📫 Contatos
 
-\begin{document}
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-f27aa9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhenifer-meneses-98293b300)
+[![Email](https://img.shields.io/badge/Email-e75480?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTNHnvSsbgdgdFQKnHGcBkgkpFqhlfsJPRbGnqHjJWxGnnvwMPgWpjWGcwZJJCwwZpRTcL)
 
-\begin{center}
-  \textbf{\Huge Jhenifer Meneses} \\
-  \small (61) 99198-77252 $|$ \href{mailto:jhenifer.meneses10@gmail.com}{jhenifer.meneses10@gmail.com} $|$ 
-  \href{https://jheniferfm.github.io/Portf-lio}{https://jheniferfm.github.io/Portf-lio/}
-\end{center}
+## 📊 Estatísticas do GitHub
 
-\fontsize{11}{13}\selectfont  % Define o tamanho da fonte como 11pt e o espaçamento entre linhas como 13pt
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JheniferFM&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=jolly)
 
-\section*{PROFESSIONAL SUMMARY}
-I am an enthusiastic student of Systems Analysis and Development (3rd semester) with solid experience in Power BI. I create interactive dashboards and dynamic reports, transforming data into valuable insights. I have hands-on experience in data integration, creating visualizations, and personalizing dashboards to support strategic decision-making. Additionally, I have development skills in Python, JavaScript, and SQL, along with expertise in automating processes, integrating data, and optimizing workflows. 
+## 🚀 Minhas Habilidades
 
-\section{Education}
-\resumeSubHeadingList
-  \resumeSubheading
-      {Centro Universitário de Brasília (UNICEUB)}{}
-      {}
-      {July 2023 - December 2025}
-      {Bachelor in Systems Analysis and Development}
-\resumeSubHeadingListEnd
+- **Front-end**: HTML, CSS, JavaScript
+- **Back-end**: Node.js, PHP, MySQL, Python
+- **Design**: Figma, Photoshop
+- **Ferramentas**: Git, GitHub, VS Code
 
-\section{Key Projects}
-\resumeSubHeadingList
+## 🌱 Atualmente aprendendo
 
-  \item[] \textbf{Currency Converter (Web App)}
-  \begin{itemize}[leftmargin=0.25in, label={$\bullet$}]
-      \resumeItem{Developed a currency converter for converting Brazilian Real to USD, EUR, and Bitcoin using an API.}
-      \resumeItem{\href{https://jheniferfm.github.io/Conversor-de-moedas/}{Live Demo: https://jheniferfm.github.io/Conversor-de-moedas/}}
-  \end{itemize}
+- React
+- Linux
+- Next.js: Aprendendo a criar aplicações performáticas e escaláveis.
 
-  \item[] \textbf{Weather Forecast Dashboard}
-  \begin{itemize}[leftmargin=0.25in, label={$\bullet$}]
-      \resumeItem{Created a weather forecasting web application that provides real-time weather information for a specific city.}
-      \resumeItem{\href{https://jheniferfm.github.io/Previs-o-do-tempo/}{Live Demo: https://jheniferfm.github.io/Previs-o-do-tempo/}}
-  \end{itemize}
+## 🎯 Objetivos
 
-  \item[] \textbf{Sales Analysis Dashboard (Power BI)}
-  \begin{itemize}[leftmargin=0.25in, label={$\bullet$}]
-      \resumeItem{Developed an interactive Power BI dashboard for analyzing fictional sales data, including advanced filtering and visualization.}
-      \resumeItem{Used Python (pandas, numpy) for data manipulation and Excel file generation.}
-      \resumeItem{\href{https://github.com/jheniferfm/Dashboard-Vendas}{GitHub: https://github.com/jheniferfm/Dashboard-Vendas}}
-  \end{itemize}
-
-\resumeSubHeadingListEnd
-
-\section{Skills}
-
-\resumeSubHeadingList
-    \resumeSubheading
-        {Systems Development & Automation:}{}
-        {Python, JavaScript, SQL, HTML, CSS}{}
-        {Web application development, Process automation, Data integration, API integration.}{}
-\resumeSubHeadingList
-\vspace{0.5em}
-\resumeSubHeadingList
-    \resumeSubheading
-        {Power BI & Data Analysis:}{}
-        {Power BI, DAX, Data Modeling, Data Transformation}{}
-        {Creation of interactive dashboards, Dynamic reporting, Data analysis for business insights.}{}
-\resumeSubHeadingList
-\vspace{0.5em}
-\resumeSubHeadingList
-    \resumeSubheading
-        {Technologies:}{}
-        {Git, GitHub, Linux (Ubuntu), Windows 10/11, Microsoft 365, Google Analytics}{}
-        {Version control, Cloud computing, Microsoft Office Suite.}{}
-\resumeSubHeadingListEnd
-
-\section{Experience}
-\resumeSubHeadingList
-    \resumeSubheading
-        {Internship in Systems Infrastructure and Automation - IGUT}{}
-        {Network maintenance and automated process implementation.}{}
-    \resumeSubheading
-        {Internship in Data Analysis - Organization of the Amazon Cooperation Treaty (OTCA)}{}
-        {Responsible for data analysis and report development.}{}
-\resumeSubHeadingListEnd
-
-\section{Languages}
-\resumeSubHeadingList
-        {Portuguese (Native), English (Intermediate)}{}
-\resumeSubHeadingListEnd
-
-\section{Certifications}
-\resumeSubHeadingList
-    \resumeSubheading
-        {Cisco Academy:}{}
-        {Networking Technician.}{}
-    \resumeSubheading
-        {IFRS:}{}
-        {Web Programming, Programming Logic, English, Data Structures.}{}
-    \resumeSubheading
-        {Udemy:}{}
-        {Zabbix and Grafana, IT Infrastructure Management, ITIL 4 Foundation.}{}
-\resumeSubHeadingListEnd
-
-\end{document}
+- Contribuir em projetos open-source
+- Criar um portfólio incrível
+- Aprender algo novo todos os dias!
