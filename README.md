@@ -1,77 +1,75 @@
-# Olá! Eu sou a Jhenifer Meneses 👩‍💻
+# Oiii! Eu sou a Jhenifer Meneses 👩‍💻
 
-Bem-vindo ao meu perfil no GitHub! Sou uma desenvolvedora apaixonada por **Desenvolvimento de Software**, **Power BI** e **Análise de Dados**. Busco transformar dados em insights poderosos e criar soluções tecnológicas inovadoras. Sempre em busca de desafios e aprendizado contínuo!
+Bem-vindo ao meu espaço no GitHub! Sou uma desenvolvedora apaixonada por **desenvolvimento de software** e **análise de dados**. Com um foco especial em **Power BI** e **automatização de processos**, estou sempre em busca de aprender novas tecnologias e construir soluções inovadoras.
 
-## 🌱 Sobre mim
-- 🎓 **Estudante de Análise e Desenvolvimento de Sistemas** - Atualmente no 3º semestre, focada no desenvolvimento de software e visualização de dados.
-- 💻 **Apaixonada por tecnologia** - Desenvolvo projetos que fazem a diferença, utilizando principalmente Python, Power BI e frameworks para web.
-- 💪 **Focada em resultados** - Cada projeto é uma oportunidade de aprender e aplicar novos conhecimentos.
+## ✨ Sobre Mim
 
----
-
-## 🚀 Minhas Habilidades
-### **Desenvolvimento**
-- **Linguagens de Programação**: Python, JavaScript, HTML5, CSS3, SQL
-- **Frameworks e Bibliotecas**: Flask, Django, jQuery, Bootstrap, Power BI, Pandas, Numpy
-- **Ferramentas de Desenvolvimento**: VS Code, Git, GitHub, Jupyter Notebooks
-- **Visualização de Dados**: Power BI, DAX, Data Modeling, Data Transformation
+- 🎓 **Estudante de Análise e Desenvolvimento de Sistemas** (3º semestre) com grande interesse por **automação de processos** e **análise de dados**.
+- 💻 **Desenvolvedora Full Stack**: Experiência com **Python**, **JavaScript**, **SQL**, e **desenvolvimento de aplicações web**.
+- 📊 **Especialista em Power BI**: Criação de dashboards interativos e relatórios dinâmicos para gerar insights valiosos e facilitar decisões empresariais.
+- 🚀 Sempre em busca de **novos desafios** para aprimorar minhas habilidades e expandir meu conhecimento.
 
 ---
 
-## 🌍 Projetos Destacados
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JheniferFM&layout=compact&theme=jolly)
 
-- **[Sales Dashboard (Power BI)](https://github.com/jheniferfm/Dashboard-Vendas)**  
-  Um painel interativo para análise de vendas, com visualizações detalhadas e filtros avançados.  
-  **Ferramentas**: Power BI, DAX, Python  
-  [Veja o projeto aqui](https://github.com/jheniferfm/Dashboard-Vendas)
+## 🛠 Minhas Habilidades
 
-- **[Conversor de Moedas (Web App)](https://github.com/jheniferfm/Conversor-de-moedas)**  
-  Uma aplicação web para conversão de moedas usando API para taxas de câmbio em tempo real.  
-  [Veja o projeto aqui](https://github.com/jheniferfm/Conversor-de-moedas)
+### Desenvolvimento & Automação
+- **Linguagens**: Python, JavaScript, SQL, HTML, CSS
+- **Frameworks**: Django, Flask, Node.js
+- **Desenvolvimento Web**: Front-end e Back-end, APIs, Integração de Dados
 
-- **[Análise de Dados de Vendas (Python)](https://github.com/jheniferfm/Analise-de-Dados-Vendas)**  
-  Projeto de análise de dados de vendas com Python, usando **Pandas** para manipulação de dados e **Matplotlib** para visualizações.  
-  [Veja o código no GitHub](https://github.com/jheniferfm/Analise-de-Dados-Vendas)
+### Power BI & Análise de Dados
+- **Power BI**: Criação de dashboards interativos, relatórios dinâmicos, e visualizações de dados para insights estratégicos.
+- **DAX**: Criação de medidas e cálculos avançados.
+- **Modelagem de Dados**: Transformação e organização de dados para análise eficaz.
 
----
-
-## 📊 Contribuições no GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JheniferFM&show_icons=true&count_private=true&hide_title=true&theme=jolly)
-
-### Contribuições Recentes:
-- **[Projeto de Análise de Vendas (Power BI)](https://github.com/jheniferfm/Dashboard-Vendas)**: Dashboard interativo para visualização de dados de vendas.
-- **[Conversor de Moedas Web App](https://github.com/jheniferfm/Conversor-de-moedas)**: Contribuição em front-end e integração de API.
+### Ferramentas e Tecnologias
+- **Git & GitHub**: Controle de versão, colaboração em projetos open-source.
+- **SQL**: Banco de Dados (MySQL, PostgreSQL), consultas avançadas.
+- **Excel**: Automação e análise de dados com fórmulas e Power Query.
 
 ---
 
-## 💬 Me Encontre em:
-- **[LinkedIn](https://www.linkedin.com/in/jhenifer-meneses-98293b300)**
-- **[Portfólio Pessoal](https://jheniferfm.github.io/Portf-lio/)**
-- **Email**: [jhenifer.meneses10@gmail.com](mailto:jhenifer.meneses10@gmail.com)
+## 📖 Projetos em Destaque
+
+- **[Dashboard de Vendas (Power BI)](https://github.com/jheniferfm/Dashboard-Vendas)**  
+  Desenvolvi um dashboard interativo em Power BI para análise de vendas, com integração de dados em tempo real e gráficos dinâmicos para visualização detalhada de resultados.
+
+- **[Conversor de Moedas (Web App)](https://jheniferfm.github.io/Conversor-de-moedas/)**  
+  Criei um conversor de moedas (BRL, USD, EUR, Bitcoin) utilizando uma API externa. Aprenda mais sobre o projeto [aqui](https://github.com/jheniferfm/Conversor-de-moedas).
+
+- **[Dashboard de Previsão do Tempo (Web App)](https://jheniferfm.github.io/Previs-o-do-tempo/)**  
+  Desenvolvi um aplicativo web para previsão do tempo, utilizando uma API para fornecer dados meteorológicos em tempo real. Confira o código-fonte [aqui](https://github.com/jheniferfm/Previs-o-do-tempo).
 
 ---
 
-## 🧠 O que estou aprendendo:
-- **React**: Aprendendo a criar interfaces dinâmicas e performáticas.
-- **Power BI Avançado**: Aprofundando em técnicas de visualização e transformação de dados para insights mais precisos.
-- **Desenvolvimento Full Stack**: Explorando novas tecnologias como **Node.js** e **MongoDB** para criar aplicações completas.
+## 🌱 Atualmente aprendendo
+
+- **React**: Criando interfaces interativas e escaláveis.
+- **Next.js**: Aprendendo a desenvolver aplicações otimizadas para a web.
+- **Power BI Avançado**: Mergulhando mais fundo nas funcionalidades de DAX e modelagem de dados.
 
 ---
 
-## 🎯 Meus Objetivos:
-- **Contribuir para projetos open-source** e colaborar com a comunidade de tecnologia.
-- **Aprender novas linguagens e frameworks** para aprimorar minhas habilidades de desenvolvimento.
-- **Desenvolver projetos práticos** que tragam valor e soluções reais para empresas e pessoas.
+## 🎯 Meus Objetivos
+
+- **Contribuir em projetos open-source** e melhorar minhas habilidades de colaboração.
+- **Desenvolver um portfólio robusto** com projetos desafiadores.
+- **Aprofundar em Power BI** e se tornar referência na criação de dashboards e relatórios dinâmicos.
+- **Aprender algo novo todos os dias** e aplicar isso em projetos reais.
 
 ---
 
-## 🛠 Ferramentas que uso:
-- **Desenvolvimento de Software**: Python, JavaScript, Flask, Django, SQL, Git
-- **Data Science e Análise de Dados**: Power BI, Pandas, Numpy, Matplotlib, Plotly
-- **Ambientes de Desenvolvimento**: VS Code, Jupyter Notebooks, GitHub, Docker
+## 📫 Vamos conversar?
+
+- [LinkedIn](https://www.linkedin.com/in/jhenifer-meneses-98293b300)  
+- [Email](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTNHnvSsbgdgdFQKnHGcBkgkpFqhlfsJPRbGnqHjJWxGnnvwMPgWpjWGcwZJJCwwZpRTcL)
+- [Portfólio Pessoal](https://jheniferfm.github.io/Portf-lio/)
 
 ---
 
-## 📈 Estatísticas de Contribuições no GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JheniferFM&layout=compact&theme=jolly)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JheniferFM&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=jolly)
