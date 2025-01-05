@@ -37,10 +37,10 @@ Bem-vindo ao meu espaço no GitHub! Sou uma **desenvolvedora de software** e **a
 - **[Dashboard de Vendas (Power BI)](https://github.com/jheniferfm/Dashboard-Vendas)**  
   Desenvolvi um dashboard interativo em Power BI para análise de vendas, com integração de dados em tempo real e gráficos dinâmicos para visualização detalhada de resultados.
 
-- **[Conversor de Moedas (Web App)](https://jheniferfm.github.io/Conversor-de-moedas/)**  
+- **[Conversor de Moedas )](https://jheniferfm.github.io/Conversor-de-moedas/)**  
   Criei um conversor de moedas (BRL, USD, EUR, Bitcoin) utilizando uma API externa. Aprenda mais sobre o projeto [aqui](https://github.com/jheniferfm/Conversor-de-moedas).
 
-- **[Dashboard de Previsão do Tempo (Web App)](https://jheniferfm.github.io/Previs-o-do-tempo/)**  
+- **[Previsão do Tempo ](https://jheniferfm.github.io/Previs-o-do-tempo/)**  
   Desenvolvi um aplicativo web para previsão do tempo, utilizando uma API para fornecer dados meteorológicos em tempo real. Confira o código-fonte [aqui](https://github.com/jheniferfm/Previs-o-do-tempo).
 
 ---
