@@ -41,7 +41,7 @@ Bem-vindo ao meu espaço no GitHub! Sou uma **desenvolvedora de software** e **a
   Criei um conversor de moedas (BRL, USD, EUR, Bitcoin) utilizando uma API externa. Aprenda mais sobre o projeto [aqui](https://github.com/jheniferfm/Conversor-de-moedas).
 
 - **[Previsão do Tempo ](https://jheniferfm.github.io/Previs-o-do-tempo/)**  
-  Desenvolvi um aplicativo web para previsão do tempo, utilizando uma API para fornecer dados meteorológicos em tempo real. Confira o código-fonte [aqui](https://github.com/jheniferfm/Previs-o-do-tempo).
+  Desenvolvi um sistema para previsão do tempo, utilizando uma API para fornecer dados meteorológicos em tempo real. Confira o código-fonte [aqui](https://github.com/jheniferfm/Previs-o-do-tempo).
 
 ---
 
