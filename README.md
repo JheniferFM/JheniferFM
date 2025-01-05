@@ -70,6 +70,3 @@ Bem-vindo ao meu espaço no GitHub! Sou uma **desenvolvedora de software** e **a
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JheniferFM&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=jolly)
