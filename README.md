@@ -1,4 +1,4 @@
-# Oiii! Eu sou a Jhenifer Meneses 👩‍💻
+# Oiii! Eu sou a Jhenifer  👩‍💻
 
 Bem-vindo ao meu espaço no GitHub! Sou uma **desenvolvedora de software** e **analista de dados**. Com um foco especial em **desenvolvimento de software** , **Power BI** e **automatização de processos**, estou sempre em busca de aprender novas tecnologias e construir soluções inovadoras.
 
