@@ -1,3 +1,6 @@
+
+---
+
 # Olá! Eu sou a Jhenifer 👩‍💻
 
 Bem-vindo ao meu espaço no GitHub! Sou uma **desenvolvedora de software** e **analista de dados** apaixonada por resolver problemas e criar soluções inovadoras. Estou em uma jornada constante de aprendizado e crescimento, com um foco especial em **automação de processos**, **Power BI** e **desenvolvimento de software**. Se você está aqui, vamos explorar juntos o que posso criar e aprender!
@@ -21,6 +24,9 @@ Bem-vindo ao meu espaço no GitHub! Sou uma **desenvolvedora de software** e **a
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🌐 Tecnologias Web
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -34,6 +40,11 @@ Bem-vindo ao meu espaço no GitHub! Sou uma **desenvolvedora de software** e **a
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+### 🛠️ Ferramentas de Infraestrutura
+
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-2E8B57?style=for-the-badge&logo=zabbix&logoColor=white)
 
 ### 🌍 Colaboração e Versionamento
 
@@ -89,17 +100,12 @@ Desenvolvi um sistema de **previsão do tempo** que utiliza uma API para fornece
 
 ---
 
-###
-
-
-
-
-
-
-
+### 
 <img src="https://raw.githubusercontent.com/JheniferFM/JheniferFM/output/snake.svg" alt="Snake animation" />
 
-###
+---
 
-###
 ⭐ **Obrigada por visitar meu perfil!** ⭐
+
+---
+
