@@ -73,13 +73,13 @@ Desenvolvi um **conversor de moedas** com suporte a BRL, USD, EUR e Bitcoin, uti
 Desenvolvi um sistema de **previsão do tempo** que utiliza uma API para fornecer dados meteorológicos em tempo real. Veja o código [aqui](https://github.com/jheniferfm/Previs-o-do-tempo).
 
 ---
-
 ## 🌱 Atualmente aprendendo
 
-- **React**: Construindo interfaces modernas e escaláveis para web.
-- **Next.js**: Aperfeiçoando o desenvolvimento de aplicações web otimizadas.
-- **Power BI Avançado**: Mergulhando em **DAX** e **modelagem de dados** para dashboards ainda mais dinâmicos.
-- **Kotlin Multiplatform**: Explorando o desenvolvimento de código compartilhado entre Android, iOS, Web e Backend, com foco em **desenvolvimento multiplataforma**.
+- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) **React**: Construindo interfaces modernas e escaláveis para web.
+- ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white) **Next.js**: Aperfeiçoando o desenvolvimento de aplicações web otimizadas.
+- ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black) **Power BI Avançado**: Mergulhando em **DAX** e **modelagem de dados** para dashboards ainda mais dinâmicos.
+- ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white) **Kotlin Multiplatform**: Explorando o desenvolvimento de código compartilhado entre Android, iOS, Web e Backend, com foco em **desenvolvimento multiplataforma**.
+- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) **Java**: Aprimorando o conhecimento em desenvolvimento de aplicações robustas e escaláveis, com foco em **backend** e **sistemas corporativos**.
 
 ---
 
