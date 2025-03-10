@@ -79,8 +79,10 @@ Desenvolvi um sistema de **previsão do tempo** que utiliza uma API para fornece
 - **React**: Construindo interfaces modernas e escaláveis para web.
 - **Next.js**: Aperfeiçoando o desenvolvimento de aplicações web otimizadas.
 - **Power BI Avançado**: Mergulhando em **DAX** e **modelagem de dados** para dashboards ainda mais dinâmicos.
+- **Kotlin Multiplatform**: Explorando o desenvolvimento de código compartilhado entre Android, iOS, Web e Backend, com foco em **desenvolvimento multiplataforma**.
 
 ---
+
 
 ## 🎯 Meus Objetivos
 
