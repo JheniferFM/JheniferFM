@@ -1,6 +1,3 @@
-
----
-
 # Olá! Eu sou a Jhenifer 👩‍💻
 
 Bem-vindo ao meu espaço no GitHub! Sou uma **desenvolvedora de software** e **analista de dados** apaixonada por resolver problemas e criar soluções inovadoras. Estou em uma jornada constante de aprendizado e crescimento, com um foco especial em **automação de processos**, **Power BI** e **desenvolvimento de software**. Se você está aqui, vamos explorar juntos o que posso criar e aprender!
@@ -55,6 +52,7 @@ Bem-vindo ao meu espaço no GitHub! Sou uma **desenvolvedora de software** e **a
 
 ## 📊 Estatísticas do GitHub
 
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JheniferFM&show_icons=true&theme=radical)
 
 ---
 
@@ -73,6 +71,7 @@ Desenvolvi um **conversor de moedas** com suporte a BRL, USD, EUR e Bitcoin, uti
 Desenvolvi um sistema de **previsão do tempo** que utiliza uma API para fornecer dados meteorológicos em tempo real. Veja o código [aqui](https://github.com/jheniferfm/Previs-o-do-tempo).
 
 ---
+
 ## 🌱 Atualmente aprendendo
 
 - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) **React**: Construindo interfaces modernas e escaláveis para web.
@@ -82,7 +81,6 @@ Desenvolvi um sistema de **previsão do tempo** que utiliza uma API para fornece
 - ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) **Java**: Aprimorando o conhecimento em desenvolvimento de aplicações robustas e escaláveis, com foco em **backend** e **sistemas corporativos**.
 
 ---
-
 
 ## 🎯 Meus Objetivos
 
@@ -109,4 +107,3 @@ Desenvolvi um sistema de **previsão do tempo** que utiliza uma API para fornece
 ⭐ **Obrigada por visitar meu perfil!** ⭐
 
 ---
-
