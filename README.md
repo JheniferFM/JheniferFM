@@ -8,7 +8,7 @@ Bem-vindo ao meu espaço no GitHub! Sou uma **desenvolvedora de software** e **a
 
 - 🎓 **Estudante de Análise e Desenvolvimento de Sistemas** (4º semestre), com grande interesse por **automação de processos**,**infraestrutura** e **análise de dados**.
 - 💻 **Desenvolvedora full-stack** com experiência em **Python**, **PHP**, **JavaScript**, **SQL** e **desenvolvimento web**.
-- 📊 **Especialista em Power BI**: Criação de dashboards interativos e relatórios dinâmicos para transformar dados em insights valiosos.
+- 📊 **Power BI**: Criação de dashboards interativos e relatórios dinâmicos para transformar dados em insights valiosos.
 - 🚀 Sempre em busca de **novos desafios** para aprimorar minhas habilidades e expandir meu conhecimento.
 
 ---
