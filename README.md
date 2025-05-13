@@ -48,11 +48,8 @@ Bem-vindo ao meu espaço no GitHub! Sou uma **desenvolvedora de software** e **a
 
 ---
 
-## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JheniferFM&show_icons=true&theme=radical)
 
----
 
 ## 🚀 Projetos em Destaque
 
