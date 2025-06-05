@@ -1,12 +1,12 @@
 # Olá! Eu sou a Jhenifer 👩‍💻
 
-Bem-vindo ao meu espaço no GitHub! Sou uma **desenvolvedora de software** e **analista de dados** apaixonada por resolver problemas e criar soluções inovadoras. Estou em uma jornada constante de aprendizado e crescimento, com um foco especial em **automação de processos**, **Power BI** e **desenvolvimento de software**. Se você está aqui, vamos explorar juntos o que posso criar e aprender!
+Bem-vindo ao meu espaço no GitHub! Sou uma **desenvolvedora de software**. Estou em uma jornada constante de aprendizado e crescimento, com um foco especial em **engenharia de software** e **Power BI**. Se você está aqui, vamos explorar juntos o que posso criar e aprender!
 
 ---
 
 ## ✨ Sobre Mim
 
-- 🎓 **Estudante de Análise e Desenvolvimento de Sistemas** (4º semestre), com grande interesse por **automação de processos**,**infraestrutura** e **análise de dados**.
+
 - 💻 **Desenvolvedora full-stack** com experiência em **Python**, **PHP**, **JavaScript**, **SQL** e **desenvolvimento web**.
 - 📊 **Power BI**: Criação de dashboards interativos e relatórios dinâmicos para transformar dados em insights valiosos.
 - 🚀 Sempre em busca de **novos desafios** para aprimorar minhas habilidades e expandir meu conhecimento.
