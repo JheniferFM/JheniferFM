@@ -7,7 +7,7 @@ Bem-vindo ao meu espaço no GitHub! Sou uma **desenvolvedora de software**. Esto
 ## ✨ Sobre Mim
 
 
-- 💻 **Desenvolvedora full-stack** com experiência em **Python**, **PHP**, **JavaScript**, **SQL** e **desenvolvimento web**.
+- 💻 **Desenvolvedora full-stack** com experiência em **Python**, **PHP**, **JavaScript**, **Kotlin multiplataformas**, **SQL**.
 - 📊 **Power BI**: Criação de dashboards interativos e relatórios dinâmicos para transformar dados em insights valiosos.
 - 🚀 Sempre em busca de **novos desafios** para aprimorar minhas habilidades e expandir meu conhecimento.
 
@@ -21,6 +21,7 @@ Bem-vindo ao meu espaço no GitHub! Sou uma **desenvolvedora de software**. Esto
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![KMP](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white).
 
 ### 🌐 Tecnologias Web
 
@@ -30,6 +31,7 @@ Bem-vindo ao meu espaço no GitHub! Sou uma **desenvolvedora de software**. Esto
 ### ⚙️ Frameworks & Bibliotecas
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Láravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### 📊 Ferramentas de Análise de Dados
 
