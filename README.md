@@ -50,25 +50,7 @@ Bem-vindo ao meu espaço no GitHub! Sou uma **desenvolvedora de software full-st
 
 ---
 
-## 🚀 Projetos em Destaque
 
-### 📈 Dashboard de Vendas (Power BI)
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/jheniferfm/Dashboard-Vendas)  
-Criei um **dashboard interativo** em Power BI para análise de vendas, com gráficos dinâmicos e integração de dados em tempo real para visualização de resultados detalhados.
-
-### 💱 Conversor de Moedas
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://jheniferfm.github.io/Conversor-de-moedas/)  
-Desenvolvi um **conversor de moedas** com suporte a BRL, USD, EUR e Bitcoin, utilizando uma API externa para atualizações em tempo real. Confira o código [aqui](https://github.com/jheniferfm/Conversor-de-moedas).
-
-### 🌦️ Previsão do Tempo
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://jheniferfm.github.io/Previs-o-do-tempo/)  
-Desenvolvi um sistema de **previsão do tempo** que utiliza uma API para fornecer dados meteorológicos em tempo real. Veja o código [aqui](https://github.com/jheniferfm/Previs-o-do-tempo).
-
-### 📚 Portfólio Web (Vue.js)
-[![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://jheniferfm.github.io/Portf-lio/)  
-Criei um **portfólio interativo com Vue.js**, com modo claro/escuro, integração com GitHub, e design responsivo. Acesse e veja em ação!
-
----
 
 ## 🌱 Atualmente aprendendo
 
