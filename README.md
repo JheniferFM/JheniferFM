@@ -20,6 +20,7 @@ Bem-vindo ao meu espaço no GitHub! Sou uma **desenvolvedora de software full-st
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![KMP](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
+
 ### 🌐 Tecnologias Web
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -47,29 +48,24 @@ Bem-vindo ao meu espaço no GitHub! Sou uma **desenvolvedora de software full-st
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-
-
-## 🌱 Atualmente aprendendo
-
-- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) **React**: Construindo interfaces modernas e escaláveis para web.
-- ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white) **Vue.js**: Desenvolvendo aplicações SPA com componentes reutilizáveis.
-- ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white) **Next.js**: Aperfeiçoando o desenvolvimento de aplicações web otimizadas.
-- ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black) **Power BI Avançado**: Mergulhando em **DAX** e **modelagem de dados** para dashboards ainda mais dinâmicos.
-- ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white) **Kotlin Multiplatform**: Explorando o desenvolvimento de código compartilhado entre Android, iOS, Web e Backend.
-- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) **Java**: Aprimorando o conhecimento em desenvolvimento de aplicações robustas e escaláveis.
-- ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white) **jQuery**: Mantendo compatibilidade com projetos legados e interações web simples.
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ---
 
 ## 🎯 Meus Objetivos
 
-- 🌟 **Contribuir para projetos open-source** e aprimorar minhas habilidades de colaboração.
-- 🚀 **Desenvolver um portfólio sólido** com projetos inovadores.
-- 📊 **Especializar em Power BI** para criar relatórios e dashboards ainda mais impactantes.
-- 📚 **Aprender algo novo todos os dias** e aplicar o conhecimento em projetos reais.
+🚀 Aprimorar continuamente minhas habilidades com foco em tecnologias modernas como Laravel, Vue.js, Blade, Tailwind CSS e integração com APIs REST.
+
+💼 Assumir papéis mais estratégicos em projetos, participando da arquitetura de sistemas, definição de fluxos e decisões técnicas.
+
+📊 Desenvolver aplicações completas, desde o backend estruturado até interfaces acessíveis e responsivas, com foco na experiência do usuário.
+
+🧠 Aprofundar meus conhecimentos em boas práticas, testes automatizados, versionamento com Git/GitLab, e segurança em aplicações web.
+
+🌐 Expandir minha presença na comunidade tech, contribuindo com projetos open source, criando conteúdos técnicos e mentorando novos devs.
+
+💡 Transformar ideias em soluções reais, inclusive com iniciativas próprias como sistemas SaaS, plataformas educacionais e ferramentas de impacto social.
+
 
 ---
 
