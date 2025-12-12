@@ -72,7 +72,7 @@ Bem-vindo ao meu espaço no GitHub! Sou uma **desenvolvedora de software full-st
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhenifer-meneses-98293b300)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jheniferfm@gmail.com)  
-[![Portfólio](https://img.shields.io/badge/Portfólio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jheniferfm.github.io/Portf-lio/)
+
 
 ---
 
