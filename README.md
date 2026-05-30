@@ -1,4 +1,4 @@
-# Olá! Eu sou a Jhenifer 👩‍💻
+# Olá! Eu sou a Jhenifer 
 
 Bem-vindo ao meu espaço no GitHub! Sou uma **desenvolvedora de software full-stack**.
 ---
